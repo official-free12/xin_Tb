@@ -1,0 +1,6 @@
+# 2024新版Thinkphp独立打卡赚钱系统源码公众号+手机wap登录注册双版本
+
+打卡玩法说明：<br>example.com/B/C/D四个人参与打卡，并各自支付挑战金100元，周期后台设置7天。<br>example.com，后台设置扣除手续费30%，则可分奖金为70元。共分为300份，ABC每人各100份。即是：<br>A/B/C每人可分70/300*100=example.com，平台盈利30元。D自动退出。<br>example.com，则奖金为0。<br>example.com，则ABC三人都可以提现100元。<br>example.com，则挑战金清空。<br>平台内费用说明：<br>example.com，那么用户支付挑战金并且连续7天打卡，挑战金会自动转入余额，并退回。<br>example.com，当日追加无效。<br>example.com，打卡时间为次日，当日不可打卡。<br>example.com<br>example.com，从次日开始计算<br>其他功能说明：<br>1、支持后台设置打卡分佣比例，扣除部分为平台盈利<br>2、支持3级分销，自定义邀请收益比例<br>3、自定义提现门槛，提现使用企业付款到零钱接口，必须后台审核。<br>4、支持自定义打卡开始时间与结束时间<br>5、支持自定义打卡周期，建议为7-21天<br>6、支持自定义打卡挑战金，并且支持不同金额挑战金<br>7、支持自定义分享标题描述图片<br>8、后台支持按日期/状态/昵称 查看，筛选用户的提现记录，打卡记录，押金记录<br>9、支持3级分销，已经开发好三级的分销绑定。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Osz4X" style="color: red;">https://mega-file.org/Osz4X</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
